@@ -1,0 +1,12 @@
+{
+  "name": "React-Native-Room-Finder",
+  "displayName": "React-Native-Room-Finder",
+  "expo": {
+    "name": "React-Native-Room-Finder",
+    "slug": "React-Native-Room-Finder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

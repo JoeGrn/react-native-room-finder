@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> should render 1`] = `
+<View
+  collapsable={true}
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <
+      disabled={false}
+      style={
+        Array [
+          Object {
+            "borderRadius": 5,
+            "borderWidth": 2,
+          },
+          Object {
+            "backgroundColor": "#68A51D",
+            "borderColor": "#68A51D",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "padding": 10,
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        my button
+      </Text>
+    </>
+  </View>
+</View>
+`;

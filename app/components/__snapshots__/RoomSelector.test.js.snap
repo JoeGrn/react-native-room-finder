@@ -1,0 +1,419 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RoomSelector/> should render 1`] = `
+<View
+  collapsable={true}
+  pointerEvents="box-none"
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <Picker
+    mode="dialog"
+    testID="picker"
+  >
+    <Picker.Item
+      label="Asquith"
+      testID="Asquith"
+      value={
+        Array [
+          "Asquith",
+          "g,6,0",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Vroom"
+      testID="Vroom"
+      value={
+        Array [
+          "Vroom",
+          "g,7,0",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Pocket Tap"
+      testID="Pocket Tap"
+      value={
+        Array [
+          "Pocket Tap",
+          "g,5,2",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Travellers Rest"
+      testID="Travellers Rest"
+      value={
+        Array [
+          "Travellers Rest",
+          "g,4,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Digital"
+      testID="Digital"
+      value={
+        Array [
+          "Digital",
+          "g,6,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Enterprise"
+      testID="Enterprise"
+      value={
+        Array [
+          "Enterprise",
+          "g,6,6",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Small Room"
+      testID="Small Room"
+      value={
+        Array [
+          "Small Room",
+          "g,6,7",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Orb"
+      testID="Orb"
+      value={
+        Array [
+          "Orb",
+          "g,1,2",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Dog & Duck"
+      testID="Dog & Duck"
+      value={
+        Array [
+          "Dog & Duck",
+          "g,1,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Make Things Simple"
+      testID="Make Things Simple"
+      value={
+        Array [
+          "Make Things Simple",
+          "g,1,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Diversity"
+      testID="Diversity"
+      value={
+        Array [
+          "Diversity",
+          "g,1,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Wine Tasting Room"
+      testID="Wine Tasting Room"
+      value={
+        Array [
+          "Wine Tasting Room",
+          "1,0,7",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Doing the Right Thing"
+      testID="Doing the Right Thing"
+      value={
+        Array [
+          "Doing the Right Thing",
+          "1,0,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Playing to Win"
+      testID="Playing to Win"
+      value={
+        Array [
+          "Playing to Win",
+          "1,2,5",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Momentum"
+      testID="Momentum"
+      value={
+        Array [
+          "Momentum",
+          "1,4,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Little Strategy Room"
+      testID="Little Strategy Room"
+      value={
+        Array [
+          "Little Strategy Room",
+          "1,5,5",
+        ]
+      }
+    />
+    <Picker.Item
+      label="G1"
+      testID="G1"
+      value={
+        Array [
+          "G1",
+          "1,7,2",
+        ]
+      }
+    />
+    <Picker.Item
+      label="G2"
+      testID="G2"
+      value={
+        Array [
+          "G2",
+          "1,7,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="G3"
+      testID="G3"
+      value={
+        Array [
+          "G3",
+          "1,7,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 4"
+      testID="Meeting Room 4"
+      value={
+        Array [
+          "Meeting Room 4",
+          "1,7,5",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 5"
+      testID="Meeting Room 5"
+      value={
+        Array [
+          "Meeting Room 5",
+          "1,7,5",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 7"
+      testID="Meeting Room 7"
+      value={
+        Array [
+          "Meeting Room 7",
+          "1,7,6",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 8"
+      testID="Meeting Room 8"
+      value={
+        Array [
+          "Meeting Room 8",
+          "1,6,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 9"
+      testID="Meeting Room 9"
+      value={
+        Array [
+          "Meeting Room 9",
+          "1,6,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 10"
+      testID="Meeting Room 10"
+      value={
+        Array [
+          "Meeting Room 10",
+          "1,6,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 11"
+      testID="Meeting Room 11"
+      value={
+        Array [
+          "Meeting Room 11",
+          "1,6,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 12"
+      testID="Meeting Room 12"
+      value={
+        Array [
+          "Meeting Room 12",
+          "1,6,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Meeting Room 13"
+      testID="Meeting Room 13"
+      value={
+        Array [
+          "Meeting Room 13",
+          "1,6,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Little Room"
+      testID="Little Room"
+      value={
+        Array [
+          "Little Room",
+          "1,7,6",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Retail"
+      testID="Retail"
+      value={
+        Array [
+          "Retail",
+          "2,7,0",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Rollback"
+      testID="Rollback"
+      value={
+        Array [
+          "Rollback",
+          "2,5,0",
+        ]
+      }
+    />
+    <Picker.Item
+      label="His"
+      testID="His"
+      value={
+        Array [
+          "His",
+          "2,7,4",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Hers"
+      testID="Hers"
+      value={
+        Array [
+          "Hers",
+          "2,7,5",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Mindstep"
+      testID="Mindstep"
+      value={
+        Array [
+          "Mindstep",
+          "2,3,7",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Cops"
+      testID="Cops"
+      value={
+        Array [
+          "Cops",
+          "2,1,1",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Sparkle"
+      testID="Sparkle"
+      value={
+        Array [
+          "Sparkle",
+          "2,1,2",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Think Tank"
+      testID="Think Tank"
+      value={
+        Array [
+          "Think Tank",
+          "2,0,3",
+        ]
+      }
+    />
+    <Picker.Item
+      label="One 3"
+      testID="One 3"
+      value={
+        Array [
+          "One 3",
+          "2,0,6",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Insight"
+      testID="Insight"
+      value={
+        Array [
+          "Insight",
+          "2,0,6",
+        ]
+      }
+    />
+    <Picker.Item
+      label="Bentonville"
+      testID="Bentonville"
+      value={
+        Array [
+          "Bentonville",
+          "2,0,7",
+        ]
+      }
+    />
+  </Picker>
+</View>
+`;
